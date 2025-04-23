@@ -27,8 +27,6 @@ This task enhanced my skills in active reconnaissance and taught me how attacker
 
 ---
 
-# Network-Security-Labs
-
 ## 📘 Lab 2 Summary: ARP Cache Poisoning & MITM Attacks
 
 In this lab, I successfully completed all tasks assigned in the **AUC CyberRange Network Security Lab** focused on ARP cache poisoning and Man-In-The-Middle (MITM) attacks. The exercises were conducted using Scapy to explore the mechanisms behind spoofing and traffic manipulation in local networks.
